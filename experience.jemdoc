@@ -1,27 +1,26 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: nofooter, menu{MENU}{index.html}, addcss{example.css}
+
+
+~~~
+{}{img_left}{Figs/bio.jpg}{alt text}{200}{}{https://shaojiebai.github.io/}
 = Shaojie Bai
 
-~~~
-{}{img_left}{Figs/bio.jpg}{alt text}{326px}{245px}{https://shaojiebai.github.io/}
 [https://shaojiebai.github.io/ Shaojie Bai], B.s.\n
 [http://cse.zju.edu.cn/ Colledge of Control Science and Engineering], [https://www.zju.edu.cn/ Zhejiang University (ZJU)]\n
-\n
-Tel: [+86 188 6811 6595] \n
-E-mail: [white.shaojie@gmail.com] \n
-\[[https://scholar.google.com/citations?hl=zh-CN&user=WbJM-mwAAAAJ Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
+Southern China Center for Statistical Science.
 
 ~~~
 
-== About me
-I am currently a PhD student in [http://cse.zju.edu.cn/ Colledge of Control Science and Engineering] at [https://www.zju.edu.cn/ Zhejiang University (ZJU)], advised by [https://person.zju.edu.cn/en/jmchen Prof. Jiming Chen] and [https://person.zju.edu.cn/en/cp Prof. Peng Cheng]. I also received the B.S. degrees [http://cse.zju.edu.cn/ Colledge of Control Science and Engineering] from [https://www.zju.edu.cn/ Zhejiang University (ZJU)] in 2020.  
+== Contact
+[gaochy5@mail2.sysu.edu.cn gaochy5@mail2.sysu.edu.cn] \n
 
 == Research Interests
-- Robust Decision-Making
-- Multi-Agent Reinforcement Learning
-- Population Games and Evolutionary Dynamics
-- Trust and Reputation Mechanism Design
+- Quantitative trading
+- Computational statistics and Bayesian analysis.
 
 == Honors
+- National Scholarship, 2018
+- 1st Scholarship, School of Mathematics, Sun Yat-sen University, 2018
 - Honorable Mentions, Mathematical Contest in Modeling, [https://www.comap.com/ COMAP], 2018
 - 1st Prize, China Undergraduate Mathematical Contest in Modeling, [http://en.mcm.edu.cn/ CSIAM], 2017
 - 2nd Prize, The Chinese Mathematics Competitions (CMC), China Mathematical Society, 2017

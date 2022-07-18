@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Preprint
+- [https://arxiv.org/pdf/2207.06118v1.pdf Stability of Weighted Majority Voting under Estimated Weights] \n
+#- [https://arxiv.org/pdf/2207.06118v1.pdf Stability of Weighted Majority Voting under Estimated Weights] \n
+*Shaojie Bai*, Dongxia Wang, Tim Muller, Peng Cheng and Jiming Chen \n
+
+=== Conference
+- [https://dl.acm.org/doi/pdf/10.1145/3460120.3485668 AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy] \n
+#- [https://dl.acm.org/doi/10.1145/3394486.3403246 AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy] \n
+Linkang Du, Zhikun Zhang, *Shaojie Bai*, Changchang Liu, Shouling Ji, Peng Cheng and Jiming Chen \n
+In Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS), 2021.
+
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9763761 GraFin: An Applicable Graph-based Fingerprinting Approach for Robust Indoor Localization] \n
+#- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9763761 GraFin: An Applicable Graph-based Fingerprinting Approach for Robust Indoor Localization] \n #\[[pubs/GeometricHawkes.pdf Detailed Version]\] \n
+Han Zheng, Yan Zhang, Lan Zhang, Hao Xia, *Shaojie Bai*, Guobin Shen, Tian He, Xiangyang Li \n
+In 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS), 2021.
+
+
