@@ -1,12 +1,12 @@
-# jemdoc: nofooter, menu{MENU}{Chenyin_Gao.html}, addcss{example.css}
+# jemdoc: nofooter, menu{MENU}{index.html}, addcss{example.css}
 
 
 ~~~
-{}{img_left}{GaoChenyin.jpg}{alt text}{200}{}{https://gaochenyin.github.io/Personal-Website/Chenyin_Gao}
-= Chenyin Gao
+{}{img_left}{Figs/bio.jpg}{alt text}{200}{}{https://shaojiebai.github.io/}
+= Shaojie Bai
 
-[https://gaochenyin.github.io/Personal-Website/Chenyin_Gao Chenyin Gao], B.s.\n
-[http://math.sysu.edu.cn/ Dept. of Statistics], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-sen University ]\n
+[https://shaojiebai.github.io/ Shaojie Bai], B.s.\n
+[http://cse.zju.edu.cn/ Colledge of Control Science and Engineering], [https://www.zju.edu.cn/ Zhejiang University (ZJU)]\n
 Southern China Center for Statistical Science.
 
 ~~~
