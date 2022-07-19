@@ -1,26 +1,33 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
+    width:1440px;
     border: none;
     border-collapse: separate;
-    background: white;
+    background: #b2h2h2;
+    background:rgb(255, 255, 255);
+    background:rgba(255, 255, 255, 0.95);
 }
 
 body {
-	background: #F0F8FF;
+	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	background: #F3F9FD;
+/* 	background-image:url('figures/umnphoto.jpg');
+	background-repeat:repeat; */
 }
 
 #layout-menu {
-	background: #F0F8FF;
-	border: 1px solid #dddddd;
-	padding-top: 0.5em;
-	padding-left: 8px;
-	padding-right: 8px;
+/* 	background: #f6f6f6; */
+	background: #F3F9FD;
+	border: 2px solid #dddddd;
+	padding-top: 0.2em;
+	padding-left: 10px;
+	padding-right: 10px;
 	font-size: 1.2em;
-	width: auto;
+	width: 130px;;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -51,12 +58,13 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
+	font-size: 100%;
 	font-family: monaco, monospace;
 }
 
 a, a > tt {
-	color: #224b8d;
+ 	color: #022b6d; 
+	/*color: #0046AC;*/
 	text-decoration: none;
 }
 
@@ -69,7 +77,8 @@ a:hover {
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+ 	color: #527bbd; 
+	/*color: #4169E1;*/
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -118,6 +127,7 @@ strong {
 
 h1, h2, h3 {
 	color: #527bbd;
+	/*color: #4169E1;*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -144,6 +154,7 @@ h3 {
 	border-bottom: none;
 }
 
+
 p {
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
@@ -157,7 +168,7 @@ pre {
 }
 
 div#footer {
-	font-size: small;
+	font-size: large;
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
@@ -240,6 +251,7 @@ div.codeblock, div.infoblock {
 div.blocktitle {
 	font-weight: bold;
 	color: #cd7b62;
+	/*color: #527bbd;*/
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -270,7 +282,7 @@ div.infoblock p + p {
 }
 
 div.codeblock > div.blockcontent {
-	background: #F0F8FF;
+	background: #f6f6f6;
 }
 
 span.pycommand {
