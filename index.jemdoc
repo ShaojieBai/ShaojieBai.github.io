@@ -8,7 +8,7 @@
 [http://cse.zju.edu.cn/ Colledge of Control Science and Engineering], [https://www.zju.edu.cn/ Zhejiang University (ZJU)]\n
 \n
 Tel: [+86 188 6811 6595] \n
-E-mail: [white.shaojie@gmail.com] \n
+E-mail: [white.shaojie@gmail.com], [bai_shaojie@zju.edu.cn] \n
 \[[https://scholar.google.com/citations?hl=zh-CN&user=WbJM-mwAAAAJ Google Scholar]\]\[[ShaojieCV.pdf Curriculem Vitae]\] \n
 
 ~~~
@@ -17,7 +17,6 @@ E-mail: [white.shaojie@gmail.com] \n
 I am currently a PhD student affiliated with [http://nesc.zju.edu.cn/ NESC Group] at [https://www.zju.edu.cn/ Zhejiang University (ZJU)]. I am fortunately advised by [https://person.zju.edu.cn/en/jmchen Prof. Jiming Chen] and [https://person.zju.edu.cn/en/cp Prof. Peng Cheng]. I also received the B.S. degrees [http://cse.zju.edu.cn/ Colledge of Control Science and Engineering] from [https://www.zju.edu.cn/ Zhejiang University (ZJU)] in 2020.
 
 == Research Interests
-- Robust Decision-Making
-- Multi-Agent Reinforcement Learning
-- Population Games and Evolutionary Dynamics
-- Trust and Reputation Mechanism Design 
+- Multi-Agent Decision Making 
+- Online Learning
+- Bandits Problems and Reinforcement Learning
