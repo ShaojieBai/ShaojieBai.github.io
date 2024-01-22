@@ -2,10 +2,15 @@
 == Publications 
 
 === Conference
-- [https://arxiv.org/pdf/2207.06118v1.pdf Stability of Weighted Majority Voting under Estimated Weights] \n
-#- [https://arxiv.org/pdf/2207.06118v1.pdf Stability of Weighted Majority Voting under Estimated Weights] \n
+- Stability of Weighted Majority Voting under Estimated Weights \n
+#- [Stability of Weighted Majority Voting under Estimated Weights] \n
 *Shaojie Bai*, Dongxia Wang, Tim Muller, Peng Cheng and Jiming Chen \n
-In the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.
+In the 23nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024. (Full paper and Oral Presentation )
+
+- [https://dl.acm.org/doi/abs/10.5555/3545946.3599045 Stability of Weighted Majority Voting under Estimated Weights] \n
+#- [https://dl.acm.org/doi/abs/10.5555/3545946.3599045 Stability of Weighted Majority Voting under Estimated Weights] \n
+*Shaojie Bai*, Dongxia Wang, Tim Muller, Peng Cheng and Jiming Chen \n
+In the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023. (Extended Abstract)
 
 - [https://dl.acm.org/doi/pdf/10.1145/3460120.3485668 AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy] \n
 #- [https://dl.acm.org/doi/10.1145/3394486.3403246 AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy] \n
