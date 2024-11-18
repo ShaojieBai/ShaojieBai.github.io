@@ -1,19 +1,24 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications 
 
+=== Preprint
+- No-regret Exploration in Shuffle Private Reinforcement Learning \n
+#- No-regret Exploration in Shuffle Private Reinforcement Learning \n
+*Shaojie Bai*, Mohammad Sadegh Talebi, Chengcheng Zhao, Peng Cheng, and Jiming Chen \n
+
 === Conference
-- Private Online Learning in Adversarial MDPs: Full-Information and Bandit \n
+- [https://openreview.net/forum?id=8tQfA8RwjG Private Online Learning in Adversarial MDPs: Full-Information and Bandit] \n
 #- [https://openreview.net/forum?id=8tQfA8RwjG Private Online Learning in Adversarial MDPs: Full-Information and Bandit] \n
 *Shaojie Bai*, Lanting Zeng, Chengcheng Zhao, Xiaoming Duan, Mohammad Sadegh Talebi, Peng Cheng and Jiming Chen \n
 In the Seventeenth European Workshop on Reinforcement Learning (EWRL), 2024. (Poster)
 
-- Differentially Private No-regret Exploration in Adversarial Markov Decision Processes \n
+- [https://proceedings.mlr.press/v244/bai24a.html Differentially Private No-regret Exploration in Adversarial Markov Decision Processes] \n
 #- [https://proceedings.mlr.press/v244/bai24a.html Differentially Private No-regret Exploration in Adversarial Markov Decision Processes] \n
 *Shaojie Bai*, Lanting Zeng, Chengcheng Zhao, Xiaoming Duan, Mohammad Sadegh Talebi, Peng Cheng and Jiming Chen \n
 In the 40th Conference on Uncertainty in Artificial Intelligence (UAI), 2024. (Poster)
 
-- Stability of Weighted Majority Voting under Estimated Weights \n
-#- [Stability of Weighted Majority Voting under Estimated Weights] \n
+- [https://dl.acm.org/doi/10.5555/3635637.3662856 Stability of Weighted Majority Voting under Estimated Weights] \n
+#- [https://dl.acm.org/doi/10.5555/3635637.3662856 Stability of Weighted Majority Voting under Estimated Weights] \n
 *Shaojie Bai*, Dongxia Wang, Tim Muller, Peng Cheng and Jiming Chen \n
 In the 23nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024. (Full paper and Oral Presentation )
 
